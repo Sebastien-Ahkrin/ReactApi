@@ -1,3 +1,5 @@
+import './config'
+
 import { app } from './server'
 import { index } from './routes'
 
